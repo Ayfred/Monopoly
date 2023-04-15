@@ -22,6 +22,3 @@ To play the Monopoly game, simply download the JAR file and run it on your compu
 
 This game was developed by Yannis, Maxime, Vadim, Léo-Paul using Java Swing. The game is based on the Monopoly board game by Hasbro.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
